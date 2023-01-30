@@ -20,7 +20,7 @@
 3) Using Page object Model (POM)
 4) Adding a Jenkinfile for playwright docker image and running tests
 
-## Screen shot of my executed test cases is also availble in the project directory
+## Screen shot of my executed test cases is also available in the project directory
 
 
 ### By Muqaddas (Automation Software Test Engineer )
