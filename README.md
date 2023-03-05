@@ -1,4 +1,4 @@
-# Task for the Youkrit for a testing job.
+# Task for the YouCurit for a testing job.
 
 ## Prerequsites
 - Jenkins should be installed with docker plugin
